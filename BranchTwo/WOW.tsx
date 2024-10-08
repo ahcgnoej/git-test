@@ -1,0 +1,3 @@
+const Wow = () => {
+  return "WOW";
+};
